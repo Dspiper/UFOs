@@ -4,7 +4,7 @@
 Provide an in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. The webpage and dynamic table will update with the results for the date, city, state, country, and shape filters set by the users. 
 
 ## Results:
-With the new webpage design users are able to filter the results on multiple criteria: date, city, state, country, and shape. Filters are located under Filer Search and conatin a static placeholder to help users understand how to enter their search. 
+With the new web page design users are able to filter the results on multiple criteria: date, city, state, country, and shape. Filters are located under Filer Search and contain a static placeholder to help users understand how to enter their search. 
 
 <img width="331" alt="Screen Shot 2021-04-18 at 8 28 07 PM" src="https://user-images.githubusercontent.com/77817870/115179377-0f711e00-a088-11eb-948e-e2761208da13.png">
 
@@ -17,6 +17,4 @@ If no results can be found for the criteria entered by the user an empty table w
 <img width="1428" alt="Screen Shot 2021-04-18 at 8 36 04 PM" src="https://user-images.githubusercontent.com/77817870/115179471-3c253580-a088-11eb-9193-5124ff507e1c.png">
 
 ## Summary: 
-On drawback of the new design of the webpage is that it does not return any error messages for criteria entered incorrectly. A recommendation for future development would be to have error messages for search criteria entered incorrectly and a message when no results are found. Another recommenation would be to have drop-down menus with avaiable search criteria for the date, city, state, country and shape fields. This would help users by provding them a list of the criteria avaiable to filter the table.  
-
-
+One drawback of the new design of the webpage is that it does not return any error messages for criteria entered incorrectly. A recommendation for future development would be to have error messages for search criteria entered incorrectly and a message when no results are found. Another recommendation would be to have drop-down menus with available search criteria for the date, city, state, country and shape fields. This would help users by providing them a list of the criteria available to filter the table.
